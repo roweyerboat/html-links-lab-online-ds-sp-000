@@ -1,4 +1,7 @@
 # HTML Links
+<a href="https://www.google.com">Google</a>
+<a href="about.html">About Page</a>
+<a href="https://www.google.com"target="_blank">Google</a>
 
 ## Problem Statement
 
